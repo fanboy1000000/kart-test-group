@@ -4,6 +4,8 @@ A two-player, split-screen kart racer that runs in your browser. Plain HTML, Jav
 
 This repo is the **starting point**: two karts that can drive around a circular track. Everything else is for you to build today. Laps, items, boosts, a minimap, sound, an AI opponent...
 
+**New here?** Read [INTRODUCTION.md](INTRODUCTION.md) (Danish: [INTRODUKTION.md](INTRODUKTION.md)) for what the day is about and how we work together. **Machine not set up yet?** [SETUP.md](SETUP.md) (Danish: [OPSÆTNING.md](OPSÆTNING.md)) takes you from a blank Windows machine to a running game.
+
 ## Run it
 
 1. Open this folder in VS Code.
