@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+node_modules/
+
+# Per-user files that AI tools and editors write into the project. Never shared.
+.claude/settings.local.json
+.vscode/*.local.json

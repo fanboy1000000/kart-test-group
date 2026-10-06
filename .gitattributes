@@ -1,0 +1,2 @@
+# Same line endings for everyone, whatever their Git settings. Keeps diffs about code, not whitespace.
+* text=auto eol=lf
